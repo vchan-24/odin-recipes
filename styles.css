@@ -1,0 +1,28 @@
+body {
+    line-height: 2cm;
+}
+
+.home-heading {
+    font: bold;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: bisque;
+}
+
+.home-recipes {
+    font: bold;
+    font-size: 14px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-align: center;
+    background-color: bisque;
+}
+
+.home-recipes-links-and-images {
+    list-style-type: none;
+}
+
+.chocolate-cake-link,
+.corn-link {
+    color: black;
+}
