@@ -1,6 +1,3 @@
-body {
-    line-height: 2cm;
-}
 
 .home-heading {
     font: bold;
@@ -9,6 +6,29 @@ body {
     text-align: center;
     background-color: bisque;
 }
+
+.home-side-bar a {
+    font-weight: bold;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+    background: white;
+    margin: 20px;
+    padding: 10px;
+    border: 0.75px solid black;
+    width: 108px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+}
+
+.home-side-bar a:hover {
+    color: white;
+    background-color: #3E3A3A;
+}
+
+
+
 
 .home-recipes {
     font: bold;
